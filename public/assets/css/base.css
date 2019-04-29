@@ -196,3 +196,13 @@ section, summary, time, mark, audio, video {
 		clear: both;
 	}
 
+	/* With assistance from Yuan */
+video {
+	position: absolute;
+  top: -5em;
+  left: -5em;
+  min-width: 100%; 
+	min-height: 100%;
+	z-index: 0;
+}
+
