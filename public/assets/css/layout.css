@@ -524,7 +524,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/pawel-czerwinski-1538545-unsplash.jpg");
+      /* background-image: url("../../images/pawel-czerwinski-1538545-unsplash.jpg"); */
     }
 
     #main > section.two {
@@ -658,7 +658,7 @@ button,
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 767px) {
 
   /* Basic */
 
